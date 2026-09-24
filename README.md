@@ -1,2 +1,5 @@
-# selbir
-## 📖 Description Profesyonel trader ve workflow architect.   Linux, Docker, SQL/Postgres ve n8n uzmanı.   AlgoTrade Bot, Veilo, VaultBox, Axon, Radar, Quran Ezberleme ve Tecvid Okulu gibi bitmiş projelerimle güvenlik, otomasyon ve kurumsal sistemlerde çözümler geliştiriyorum.
+## 📖 Description
+👨‍💻 Trader & Workflow Architect  
+🐧 Linux | 🐳 Docker | 🗄️ SQL/Postgres | 🔄 n8n  
+🚀 Bitmiş projeler: AlgoTrade Bot, Veilo, VaultBox, Axon, Radar, Quran Ezberleme, Tecvid Okulu  
+🔐 Güvenlik, otomasyon ve kurumsal sistemlerde gerçek dünyada kullanılan çözümler üretiyorum.
